@@ -3,11 +3,11 @@
 <h1 align="center">Hey 👋, I'm Darshan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Cloud+%7C+DevOps+Engineer;MERN+Stack+Developer;Building+AI+Powered+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cloud+%7C+DevOps+Engineer;MERN+Stack+Developer;AI+Systems+Builder;Future+Top+1%25+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=darshanreddy186&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -22,54 +22,41 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/darshanreddy186"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://dev.to/darshan_b"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+<a href="https://www.linkedin.com/in/darshan-b-259614279/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://leetcode.com/u/darshan___186/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github" />
 </p>
 
 ### 🧠 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10&margin-h=10" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ---
@@ -78,11 +65,11 @@
 
 ### 🐾 Campus Connect
 
-> MERN-based event management platform with admin dashboard, authentication & email reminders
+> MERN-based event management platform with admin dashboard, authentication & email notifications
 
 ### 🤖 Image Proctor
 
-> AI-based exam monitoring system using **YOLO + LSTM** for real-time detection
+> AI-based online exam monitoring using **YOLO + LSTM**
 
 ### 📄 AI Resume Generator
 
@@ -90,23 +77,36 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanreddy186&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanreddy186&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=darshanreddy186&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshanreddy186&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I love building **real-world scalable systems** combining **Cloud + AI + Web**
+💡 I love building systems that combine **Cloud + AI + Web** to solve real-world problems
 
 ---
 
-⭐️ *"Consistency beats talent. Discipline beats motivation."*
+<p align="center">
+⭐️ <i>"Consistency beats talent. Discipline beats motivation."</i>
+</p>
